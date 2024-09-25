@@ -1,5 +1,6 @@
 def printLetterGrade():
     grade = float(input("please enter grade"))
+
     if grade >= 99:
         print("A+")
     if grade < 99 and grade >= 96:
