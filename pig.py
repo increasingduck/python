@@ -1,10 +1,10 @@
 def BeginGame():
-    print("Hello Welcome To D&S Dice Game ")
+    print("Hello Welcome To Dice Game ")
 
 def Player1turn():
     print ("Press X to roll dice")
 
-def (x = "y")
+def x = "y"
   
 if x == "y":
  X = random.randint(1,6)
